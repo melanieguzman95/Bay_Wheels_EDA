@@ -1,4 +1,5 @@
-mel.env
+notebooks/mel.env
+
 data/SF_DATA/*.csv
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
