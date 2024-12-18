@@ -1,7 +1,0 @@
-mel.env
-data/SF_DATA/*.csv
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore macOS system files (if applicable)
-.DS_Store
