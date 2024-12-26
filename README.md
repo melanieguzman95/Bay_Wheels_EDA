@@ -1,20 +1,20 @@
-## 📊 Project Title: Bay Wheels Analysis  
+# Bay Wheels Bike-Share Data Analysis
 
-### 🚀 Project Overview  
-This project examines Bay Wheels bike-share data to understand usage patterns, identify popular stations, and analyze user behavior across casual riders and members.  
-It includes:  
-- **Data Preprocessing**: Cleaning, integrating, and transforming monthly trip data.  
+This project examines Bay Wheels bike-share data to understand usage patterns, identify popular stations, and analyze user behavior across casual riders and members. It includes:
+
+- **Data Preprocessing**: All preprocessing was conducted in Python, including cleaning, integrating, and transforming monthly trip data.  
 - **Data Analysis**: Evaluating seasonal trends, station popularity, ride duration, and user preferences.  
-- **Visualization**: Interactive dashboards created in Tableau.  
-- **Presentation**: Summarizing results and key insights in PowerPoint.
+- **Visualization**: Interactive dashboards were created in Tableau to effectively present the findings.  
+- **Presentation**: Results and key insights are summarized in a PDF presentation, which can be found in the `presentation` folder.  
+- **Data Source**: The data used for this analysis can be downloaded from the Bay Wheels website: [Bay Wheels Data](https://s3.amazonaws.com/baywheels-data/index.html).
+
 
 ---
 
 ### 🛠️ Tools & Technologies Used  
 - **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`  
 - **SQL**: Data integration via `psycopg2`  
-- **Jupyter Notebook**: For analysis and visualizations  
-- **Tableau**: Interactive visualizations and dashboards  
+- **Tableau**: Interactive visualizations and Analysis 
 - **PowerPoint**: For presenting findings  
 
 ---
@@ -40,9 +40,7 @@ It includes:
 ---
 
 ### 📁 Project Files  
-- **notebooks/**: Jupyter Notebooks for data preprocessing and analysis.  
-- **data/**: Raw datasets and any cleaned versions.  
-- **assets/**: Screenshots of Tableau dashboards and key visuals.  
+- **notebooks/**: Jupyter Notebooks for data preprocessing
 - **presentation/**: Final presentation PDF summarizing findings.  
 
 ---
